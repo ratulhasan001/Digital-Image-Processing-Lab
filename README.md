@@ -1,4 +1,4 @@
-# digital-image-processing-lab
+# Digital Image Processing Lab
 
 Jupyter notebooks from the Digital Image Processing sessional (lab) course of the B.Sc. in Computer Science and Engineering at BAUET. Most operations are written by hand with NumPy loops instead of library calls: spatial filtering, unsharp masking, morphological erosion and dilation, gradient and Laplacian edge detectors, and a step-by-step Canny edge detector. Where OpenCV has an equivalent (for example `cv2.erode`), the notebook runs it as well so the two results can be compared.
 
